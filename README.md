@@ -2,6 +2,9 @@
 
 Pokémon Anil v2.08 translated in English
 
+Download:
+<url=https://github.com/SpiRaL-network/PokemonAnilTranslated/releases/download/V2.08/Pokemon.Anil.V2.08.-.ENGLISH.COMPLETE.7z>Pokemon.Anil.V2.08.-.ENGLISH.COMPLETE</url>
+
 Using: 
 - Pokemon Anil v2.08 (EricLostie)
 - Pokémon Anil v1.2 (Rayzen) English complete version graphics
