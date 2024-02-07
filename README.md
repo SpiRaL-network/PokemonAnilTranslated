@@ -7,7 +7,7 @@ https://github.com/SpiRaL-network/PokemonAnilTranslated/releases/tag/V2.08
 
 Using: 
 - Pokemon Anil v2.08 (EricLostie)
-- Pokémon Anil v1.2 (Rayzen) English complete version graphics
+- Pokémon Anil v1.2 (Rayzen) English 
 - Quick Essentials INTL Translator v1.1.0 (Manurocker95)
 
 Websites:
