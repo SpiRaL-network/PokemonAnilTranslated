@@ -14,7 +14,7 @@ Websites:
 EricLostie
 https://lostiefangames.blogspot.com/
 
-Rayzen
+Raizen
 https://www.youtube.com/@RaizenV
 
 IMPORTANT :
