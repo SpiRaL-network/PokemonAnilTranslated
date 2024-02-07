@@ -8,7 +8,6 @@ https://github.com/SpiRaL-network/PokemonAnilTranslated/releases/tag/V2.08
 Using: 
 - Pokemon Anil v2.08 (EricLostie)
 - Pokémon Anil v1.2 (Rayzen) English 
-- Quick Essentials INTL Translator v1.1.0 (Manurocker95)
 
 Websites:
 
@@ -27,7 +26,7 @@ I do not own this game, I just translated it quickly to be able to play the last
 
 If the author or someone wants me to deleted this repo, feel free to contact me. 
 
-This version is using automatic translation with Quick Essentials INTL Translator v1.1.0. Sometimes the translation might not be accurate.
+This version is using Pokémon Anil v1.2 (Rayzen) English texts and graphics.
 
 A better translated version will be uploaded by Rayzen any time soon.
 
