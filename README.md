@@ -17,9 +17,6 @@ https://lostiefangames.blogspot.com/
 Rayzen
 https://www.youtube.com/@RaizenV
 
-Manurocker95
-https://reliccastle.com/resources/1334/
-
 IMPORTANT :
 
 I do not own this game, I patch it quickly to be able to play the last version of Pokémon Anil (v2.08) in English.
