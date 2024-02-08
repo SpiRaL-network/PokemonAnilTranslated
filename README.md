@@ -28,3 +28,7 @@ This version is using Pokémon Anil v1.12 (Rayzen) English texts and graphics.
 A better translated version will be uploaded by Rayzen any time soon.
 
 This version is only untended to let us play Pokémon Anil v2.0.8 before the official and supported release comes out.
+
+KNOWN BUGS
+- For the random mod, the PNJ is invisible but you can still talk to him if you know where he's from the official 2.0.8 version.
+- Some texts are not translated yet.
