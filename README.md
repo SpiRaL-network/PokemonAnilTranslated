@@ -10,7 +10,6 @@ RESSOURCES:
 - Pokémon Anil v1.12 (Rayzen) English 
 
 WEBSITES:
-
 EricLostie
 https://lostiefangames.blogspot.com/
 
@@ -18,7 +17,6 @@ Raizen
 https://www.youtube.com/@RaizenV
 
 IMPORTANT:
-
 I do not make this game, nor the translation. 
 I patch it quickly using Raizen v1.12 text and graphics to be able to play the last version of Pokémon Anil (v2.08) in English.
 
