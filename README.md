@@ -1,6 +1,8 @@
-# Pokemon Anil v2.0.8 (EricLostie)
+# Pokemon Anil v2.08 (EricLostie)
 
-Pokémon Anil v2.0.8 translated in English
+UPDATED 10/02/2024 - FIXED GRAPHICS FROM 2.08
+
+Pokémon Anil v2.08 translated in English
 
 DOWNLOAD:
 
@@ -8,7 +10,7 @@ https://github.com/SpiRaL-network/PokemonAnilTranslated/releases/
 
 RESSOURCES: 
 
-- Pokemon Anil v2.0.8 (EricLostie)
+- Pokemon Anil v2.08 (EricLostie)
 - Pokémon Anil v1.12 (Raizen) English 
 
 WEBSITES:
@@ -30,9 +32,4 @@ This version is using Pokémon Anil v1.12 (Raizen) English texts and graphics.
 
 A better translated version will be uploaded by Raizen any time soon.
 
-This version is only untended to let us play Pokémon Anil v2.0.8 before the official and supported release comes out.
-
-KNOWN BUGS:
-
-- For the random mod, the PNJ is invisible but you can still talk to him if you know where he's from the official 2.0.8 version.
-- Some texts are not translated yet.
+This version is only untended to let us play Pokémon Anil v2.08 before the official and supported release comes out.
